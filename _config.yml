@@ -60,7 +60,7 @@ features                                  :
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Gender ratio respected
-    description                           : Groups are by respecting the gender ratio.
+    description                           : Groups are made by respecting the gender ratio.
     fontawesome_icon_name                 : venus-mars
 
   - title                                 : Join Activities
