@@ -35,52 +35,80 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : University Login
+    description                           : Filtered login to avoid fake users.
+    fontawesome_icon_name                 : university
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Weavez Bot
+    description                           : Bot that suggests discussions and proposes activities.
+    fontawesome_icon_name                 : robot
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Interest-based match
+    description                           : The algorithm matches users taking into account their interests.
+    fontawesome_icon_name                 : stars
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Thematic groups
+    description                           : Users can join groups with a specific interest.
+    fontawesome_icon_name                 : layer-group
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Limited users per group
+    description                           : A maximum of 6 people can join a group.
+    fontawesome_icon_name                 : users
 
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Gender ratio respected
+    description                           : Groups are by respecting the gender ratio.
+    fontawesome_icon_name                 : venus-mars
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Group Activities
+    description                           : Groups activities are reported in the profile page of the group.
+    fontawesome_icon_name                 : calendar-week
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Group Activities
+    description                           : Groups activities are reported in the profile page of the group.
+    fontawesome_icon_name                 : calendar-week
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  # - title                                 : iPhone Device Preview
+  #   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  #   fontawesome_icon_name                 : mobile
+  #
+  # - title                                 : Video Support
+  #   description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  #   fontawesome_icon_name                 : play-circle
+  #
+  # - title                                 : Automatic Icon and Metadata
+  #   description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  #   fontawesome_icon_name                 : sync
+  #
+  # - title                                 : Easy to Tweak
+  #   description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : adjust
+  #
+  # - title                                 : Feature List
+  #   description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : star
+  #
+  # - title                                 : Smart App Banner
+  #   description                           : Display a smart app banner on iOS devices.
+  #   fontawesome_icon_name                 : arrow-alt-circle-down
+  #
+  # - title                                 : Social Links
+  #   description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : link
+  #
+  # - title                                 : FontAwesome Support
+  #   description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : info-circle
+  #
+  # - title                                 : # New Feature Title
+  #   description                           : # New Feature Description
+  #   fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
 # Theme Settings
 topbar_color                              : "#ffffff"
-topbar_transparency                       : 0.4
-topbar_title_color                        : "#ffffff"
+topbar_transparency                       : 0.9
+topbar_title_color                        : "#6038ff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#6038ff"
