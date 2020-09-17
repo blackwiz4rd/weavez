@@ -43,17 +43,21 @@ features                                  :
     description                           : Bot that suggests discussions and proposes activities.
     fontawesome_icon_name                 : robot
 
+  - title                                 : Limited users per group
+    description                           : A maximum of 6 people can join a group.
+    fontawesome_icon_name                 : users
+
   - title                                 : Interest-based match
     description                           : The algorithm matches users taking into account their interests.
-    fontawesome_icon_name                 : stars
+    fontawesome_icon_name                 : star
 
   - title                                 : Thematic groups
     description                           : Users can join groups with a specific interest.
     fontawesome_icon_name                 : layer-group
 
-  - title                                 : Limited users per group
-    description                           : A maximum of 6 people can join a group.
-    fontawesome_icon_name                 : users
+  - title                                 : Find activities
+    description                           : Find an activity and join other people.
+    fontawesome_icon_name                 : chat-line
 
   - title                                 : Gender ratio respected
     description                           : Groups are by respecting the gender ratio.
