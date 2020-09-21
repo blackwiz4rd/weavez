@@ -11,7 +11,7 @@ We are a team of 6 people from University of Padova. We are developing a project
 
 #### What is Weavez?
 
-Weavez is gives birth to relationships between students, starting from University of Padova. It is an instrument to develop friendship relationships, feeding university experiences.
+Weavez gives birth to relationships between students. This project started from the University of Padova. It is an instrument to develop friendship relationships, feeding university experiences.
 
 #### Is it just a chat app?
 
