@@ -19,8 +19,8 @@ Weavez is a social networks that works through secure chats. Other than the chat
 
 #### Is it secure?
 
-To use Weavez, every user should sign up with their university email. This way, there won't be any fake users. Other instruments and features are were though so that Weaevz is secure and reliable to use.
+To use Weavez, every user should sign up with their university email. This way, there won't be any fake users. Other instruments and features were thought so that Weaevz is secure and reliable to use.
 
 #### When will it be available?
 
-We are doing some tests and are confident that our project will be operative in 2021.
+We are doing some tests and we are confident that our project will be operative in 2021.
