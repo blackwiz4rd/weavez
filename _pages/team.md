@@ -5,30 +5,29 @@ include_in_header: true
 ---
 
 # TEAM
-We are a team of 6 people from University of Padova. We have developed our project for the [**Contamination Lab 2020**](https://clabveneto.it/?lang=en) Competition.
-
+Our team is composed of 6 people from University of Padova.
 <br>
 
 #### Lorenzo Arras
 
-*Major:* Politcal Science
+Politcal Science
 
 #### Luca Attanasio
 
-*Major:* Information and Communication Technologies (ICT) Engineering
+Information and Communication Technologies (ICT) Engineering
 
 #### Alessia Conte
 
-*Major:* Farmacia
+Pharmacy
 
 #### Héctor Garcia
 
-*Major:* Local Development
+Local Development
 
 #### Riccardo Guerra
 
-*Major:* Lettere classiche e storia antica
+Classical Literature and Ancient History
 
 #### Savino Salatto
 
-*Major:* Business Administration
+Business Administration
