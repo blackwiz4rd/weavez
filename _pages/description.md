@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Project description
-We are a team of 6 people from University of Padova. We are developing a project for the [**Contamination Lab 2020**](https://clabveneto.it/?lang=en) Competition.
+We are a team of 6 people from University of Padova. We have developed our project for the [**Contamination Lab 2020**](https://clabveneto.it/?lang=en) Competition.
 
 <br>
 
